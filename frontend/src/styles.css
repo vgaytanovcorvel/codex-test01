@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+.cnn-header {
+  background-color: #cc0000;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.container {
+  padding: 20px;
+}
+
+.entry-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.entry-form input,
+.entry-form select {
+  padding: 4px;
+  margin-left: 5px;
+}
